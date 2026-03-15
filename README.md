@@ -10,7 +10,7 @@
 
 **Deep learning system for automated knee osteoarthritis severity grading from X-ray images**
 
-[Live Demo](#) · [LinkedIn](https://www.linkedin.com/in/hafsa-ibrahim-ai-mi/) · [GitHub](https://github.com/HafsaIbrahim5)
+[Live Demo](https://kneex-rayosteoarthritisclassification-h9nde5d5ue7m9yagsy7nbk.streamlit.app/) · [LinkedIn](https://www.linkedin.com/in/hafsa-ibrahim-ai-mi/) · [GitHub](https://github.com/HafsaIbrahim5)
 
 </div>
 
